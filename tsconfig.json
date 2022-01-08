@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+    "target": "ES2021",
+    "outDir": "lib",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "lib": ["ES2021"],
+    "rootDir": "src"
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "lib", "**/tests/**/*"]
+}
