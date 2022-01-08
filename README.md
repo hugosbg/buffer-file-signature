@@ -1,6 +1,6 @@
 # buffer-file-signature
 
-> :hammer: So far it only detects popular image types, new types will be added as time goes by and/or we have help.
+> :hammer: So far it only detects popular image/audio/application types, new types will be added as time goes by and/or we have help.
 
 This package is inspired by [file-type](https://github.com/sindresorhus/file-type) and uses the [file signature](https://en.wikipedia.org/wiki/List_of_file_signatures) as the basis for determining its type.
 

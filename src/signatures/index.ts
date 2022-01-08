@@ -1,4 +1,6 @@
 import { IExtension } from '../interface/file-type'
+import { application } from './application'
+import { audio } from './audio'
 import { image } from './image'
 
 export const extensionUnknown: IExtension = {
@@ -8,5 +10,7 @@ export const extensionUnknown: IExtension = {
 }
 
 export default {
+  application,
+  audio,
   image,
 }

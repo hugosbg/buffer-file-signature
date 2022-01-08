@@ -1,6 +1,6 @@
 {
   "name": "buffer-file-signature",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "Determine file type based on signature",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
