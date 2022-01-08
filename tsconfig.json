@@ -5,10 +5,10 @@
     "esModuleInterop": true,
     "target": "ES2021",
     "outDir": "lib",
-    "module": "ESNext",
+    "module": "CommonJS",
     "moduleResolution": "node",
     "sourceMap": true,
-    "lib": ["ES2021"],
+    "lib": ["ES2021", "DOM", "DOM.Iterable"],
     "rootDir": "src"
   },
   "include": ["src"],
